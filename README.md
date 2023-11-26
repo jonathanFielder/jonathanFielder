@@ -1,7 +1,7 @@
 - Hi, I’m @jonathanFielder
-- I am a new developer interested in getting into a career in programming.
-- I am currently learning java as my primary language and have experience with python, sqlite, html, css, and c#.
-- I am interested in collaborating on any project I may be a good fit for. I am a quick learner and ready to get to work.
+- I am a student at Appalachian State University persuing a BS in Computer Science with a Minor in Mathematics.
+- Java is my primary language and I have experience with c, c++, assembly, python, sqlite, html, css, and c#.
+- I am a hobbiest audio plugin programmer with some experience in juce.
 
 
 <!---
